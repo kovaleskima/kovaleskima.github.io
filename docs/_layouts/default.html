@@ -21,6 +21,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        {% if site.site_image %}
+          <img src="{{ site.site_image }}" alt="Site Image" style="width: 200px; display: block; margin: 20px auto;" />
+        {% endif %}
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
