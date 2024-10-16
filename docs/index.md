@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<img src="assets/images/pfpMay24.jpg" alt="Maddy Kovaleski" style="width:200px;" />
+<img src="assets/images/pfpMay24.jpg" alt="Maddy Kovaleski" style="float:left; margin-right:30px; width:200px;" />
 # About Me
 This is my bio. I'm a software developer...
 
