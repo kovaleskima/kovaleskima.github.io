@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+image: "assets/images/pfpMay24.jpg"
 ---
 
 # About Me
