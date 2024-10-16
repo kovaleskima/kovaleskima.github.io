@@ -2,7 +2,10 @@
 layout: default
 title: Home
 ---
-![My Photo](assets/images/pfpMay24.jpg)
+<img src="assets/images/pfpMay24.jpg" alt="Maddy Kovaleski" style="float:left; margin-right: 10px; width:100px;" />
+
+# About Me
+This is my bio. I'm a software developer...
 # Welcome to My GitHub Pages Site
 This site is built using Jekyll and GitHub Pages.
 
