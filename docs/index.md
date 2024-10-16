@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![My Photo](assets/images/me.jpg)
+![My Photo](assets/images/pfpMay24.jpg)
 # Welcome to My GitHub Pages Site
 This site is built using Jekyll and GitHub Pages.
 
