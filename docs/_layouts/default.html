@@ -25,7 +25,9 @@
           <img src="{{ site.site_image }}" align="left" alt="Site Image" style="float:left; width: 200px; display: block; margin: 20px auto;" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if site.description %}
+            <p>{{ site.description }}</p> <!-- Displays the description from _config.yml -->
+        {% endif %}
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
