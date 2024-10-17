@@ -22,11 +22,11 @@
         {% endif %}
 
         {% if site.site_image %}
-          <img src="{{ site.site_image }}" align="left" alt="Site Image" style="float:left; width: 200px; display: block; margin: 20px auto;" />
+          <img src="{{ site.site_image }}" align="left" alt="Site Image" style="width: 200px; display: block; margin: 20px auto; clear: both;" />
         {% endif %}
 
         {% if site.description %}
-            <p>{{ site.description }}</p> <!-- Displays the description from _config.yml -->
+            <p style="clear: both;">{{ site.description }}</p> <!-- Displays the description from _config.yml -->
         {% endif %}
 
         {% if site.github.is_project_page %}

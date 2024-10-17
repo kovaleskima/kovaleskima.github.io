@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-I'm a first year graduate student in Applied and Computational Mathematics (ACM) at the University of Washington.
+I'm a first year graduate student in Applied and Computational Mathematics (ACM) at the University of Washington. 
 
 ## Research Interests
 - Fluid Dynamics
