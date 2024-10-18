@@ -2,6 +2,12 @@
 layout: default
 ---
 
+I'm a first year graduate student in Applied and Computational Mathematics (ACM) at the University of Washington. 
+I graduated from Missouri S&T summa cum laude in May 2024 with a B.S. in Applied Mathematics.
+I am seeking admission to a PhD program at the University of Washington starting autumn 2025 in one of the following departments: Atmospheric Sciences, Civil and Environmental Engineering, Oceanography.
+
+In my free time I also love to rock climb!
+
 ## Links
 Contact:  <span><a href="mailto:makov@uw.edu">makov@uw.edu</a></span><br>
 Personal Blog: <a href="https://above-the-bolt.com/" target="_blank">Above the Bolt</a>
