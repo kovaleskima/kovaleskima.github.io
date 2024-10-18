@@ -2,7 +2,10 @@
 layout: default
 ---
 
-I'm a first year graduate student in Applied and Computational Mathematics (ACM) at the University of Washington. 
+## Links
+Contact:  <span><a href="mailto:makov@uw.edu">makov@uw.edu</a></span><br>
+Personal Blog: <a href="https://above-the-bolt.com/" target="_blank">Above the Bolt</a>
+<a href="/assets/Kovaleski-CV.pdf" target="_blank">CV</a><br>
 
 ## Research Interests
 - Environmental Fluid Mechanics
