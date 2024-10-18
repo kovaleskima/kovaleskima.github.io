@@ -10,7 +10,7 @@ In my free time I also love to rock climb!
 
 ## Links
 Contact:  <span><a href="mailto:makov@uw.edu">makov@uw.edu</a></span><br>
-Personal Blog: <a href="https://above-the-bolt.com/" target="_blank">Above the Bolt</a>
+Personal Blog: <a href="https://above-the-bolt.com/" target="_blank">Above the Bolt</a><br>
 <a href="/assets/Kovaleski-CV.pdf" target="_blank">CV</a><br>
 
 ## Research Interests
