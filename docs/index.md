@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a first year PhD student in Physical Oceanography at the University of Washington, advised by Georgy Manucharyan. My current research is focused on advancing seasonal sea ice breakup modeling.
+I'm a first year graduate student in Physical Oceanography at the University of Washington, advised by Georgy Manucharyan. My current research is focused on advancing seasonal sea ice breakup modeling.
 
 I graduated from Missouri S&T summa cum laude in May 2024 with a B.S. in Applied Mathematics. Before coming to the University of Washington, I was involved with applied math and machine learning research projects at Missouri S&T and the University of Missouri, as well as a brief stint as a software engineering intern at United Launch Alliance (ULA) working on Vulcan Centaur.
 
@@ -15,11 +15,13 @@ Contact:  <span><a href="mailto:makov@uw.edu">makov@uw.edu</a></span><br>
 Personal Blog: <a href="https://above-the-bolt.com/" target="_blank">Above the Bolt</a><br>
 <a href="/assets/Kovaleski-CV.pdf" target="_blank">CV</a><br>
 
-## Research Interests
+## Topics I'm Interested In
 - Sea Ice Dynamics
 - Geophysical Fluid Dynamics
 - Deep Learning
-- Inverse Problems
+
+## Active Projects
+- [Sea Ice Dynamics](/research/)
 
 ## Publications
 
