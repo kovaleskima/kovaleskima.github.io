@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: jekyll-theme_minimal
 title: Current Research
 permalink: /research/
 ---
