@@ -4,6 +4,10 @@ title: Current Research
 permalink: /research/
 ---
 
+
+
+<div style="width:100%; height:300px; background-image: url('/assets/images/KotzebueIcePic.jpg'); background-size: cover; background-position: center;"></div>
+
 ## Project Overview
 
 My project makes use of a floe-resolving sea ice model called SubZero to observe the seasonal breakup and motion of sea ice in Kobuk Lake (Hotham Inlet), near Kotzebue, Alaska. This process is crucial to Kotzebue Sound communities reliant on sea ice for hunting and fishing. 
