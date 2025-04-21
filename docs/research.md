@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Current Research
 permalink: /research/
 ---
