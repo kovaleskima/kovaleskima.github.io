@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 I'm a first year graduate student in Physical Oceanography at the University of Washington, advised by Georgy Manucharyan. My current research is focused on advancing seasonal sea ice breakup modeling.
