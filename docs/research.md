@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 title: Current Research
 permalink: /research/
 ---
