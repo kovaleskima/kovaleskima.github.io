@@ -12,7 +12,7 @@ permalink: /research/
 
 We are using a floe-resolving sea ice discrete element model called SubZero to predict the seasonal breaking and motion of ice in Kobuk Lake (near Kotzebue, Alaska). This project is in collaboration with NOAA and the Native Village of Kotzebue.
 
-Kobuk Lake is a complex coastal system in which seasonal ice experiences forcing from winds, tides, and river runoff. Seasonal ice breakup occurs abrupty on timescales of days to weeks, and a detailed understanding of this process is needed for the subsistence activities of the NVK as well as the development of floe-scale sea ice models. 
+Kobuk Lake is a complex coastal system in which seasonal ice experiences forcing from winds, tides, and river runoff. Seasonal ice breakup occurs abruptly on timescales of days to weeks, and a detailed understanding of this process is needed for the subsistence activities of the NVK as well as the development of floe-scale sea ice models. 
 
 ## References
 
