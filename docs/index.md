@@ -2,11 +2,9 @@
 layout: home
 ---
 
-I'm a first year graduate student in Physical Oceanography at the University of Washington, advised by Georgy Manucharyan. My current research is focused on advancing seasonal sea ice breakup modeling.
+I'm a second year graduate student in Physical Oceanography at the University of Washington, advised by Georgy Manucharyan. My current research is focused on discrete element modeling of coastal sea and lake ice.
 
-I graduated from Missouri S&T summa cum laude in May 2024 with a B.S. in Applied Mathematics. Before coming to the University of Washington, I was involved with applied math and machine learning research projects at Missouri S&T and the University of Missouri, as well as a brief stint as a software engineering intern at United Launch Alliance (ULA) working on Vulcan Centaur.
-
-My work is an amalgamation of applied mathematics, software engineering and environmental science. 
+I graduated from Missouri S&T summa cum laude in May 2024 with a B.S. in Applied Mathematics. Before studying at the University of Washington, I was involved in applied math and machine learning research projects at Missouri S&T and the University of Missouri, as well as a brief stint as a software engineering intern at United Launch Alliance (ULA) working on Vulcan Centaur.
 
 In my free time I also love rock climbing and mountaineering!
 
@@ -17,8 +15,8 @@ Personal Blog: <a href="https://above-the-bolt.com/" target="_blank">Above the B
 
 ## Topics I'm Interested In
 - Sea Ice Dynamics
+- Discrete Element Modeling
 - Geophysical Fluid Dynamics
-- Deep Learning
 
 ## Active Projects
 - [Sea Ice Dynamics](/research/)
